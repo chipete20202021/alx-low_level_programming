@@ -1,5 +1,4 @@
 #includ "main.h"
-
 /**
  * main - print _putchar
  * is writen by Rose
