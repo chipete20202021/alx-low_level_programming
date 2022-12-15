@@ -1,7 +1,7 @@
 #include "stdio.h"
 /*
  * File: 11-print_to_98.c
- * Written by Tyrone
+ * Written by Rose
  */
 
 /**
