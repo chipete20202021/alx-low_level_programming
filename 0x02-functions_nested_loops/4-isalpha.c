@@ -2,7 +2,7 @@
 
 /*
  * File: 4-isalpha.c
- * Written by Tyrone
+ * Written by Rose
  */
 
 /**
