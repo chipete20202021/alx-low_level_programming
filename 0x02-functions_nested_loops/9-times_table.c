@@ -1,7 +1,7 @@
 #include "main.h"
 /*
  * File: 9-times_table.c
- * Written by Tyrone
+ * Written by Rose
  */
 /**
  * times_table - Prints the 9 times table, starting with 0.
