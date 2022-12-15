@@ -1,7 +1,7 @@
 #include <stdio.h>
 /*
  * File: 101-natural.c
- * Written by Tyrone
+ * Written by Rose
  */
 
 /**
