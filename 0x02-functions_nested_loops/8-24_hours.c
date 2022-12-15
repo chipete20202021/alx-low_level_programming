@@ -1,7 +1,7 @@
 #include "main.h"
 /*
  * File: 8-24_hours.c
- * written by Tyrone
+ * written by Rose
  */
 
 /**
