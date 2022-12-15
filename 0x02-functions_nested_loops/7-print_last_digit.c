@@ -1,7 +1,7 @@
 #include "main.h"
 /*
  * File: 7-print_last_digit.c
- * Written by Tyrone
+ * Written by Rose
  */
 
 /**
