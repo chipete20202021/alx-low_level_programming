@@ -1,7 +1,7 @@
 #include "main.h"
 /*
  * File: 3-islower.c
- * Wrtten by Tyrone
+ * Wrtten by Rose
  */
 
 /**
