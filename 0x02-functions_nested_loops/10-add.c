@@ -1,7 +1,7 @@
 #include "main.h"
 /*
  * File: 10-add.c
- * written by Tyrone
+ * written by Rose
  */
 
 /**
