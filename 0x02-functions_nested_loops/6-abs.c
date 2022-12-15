@@ -1,7 +1,7 @@
 #include "main.h"
 /*
  * file: 6-abs.c
- * Written by Tyrone
+ * Written by Rose
  */
 
 /**
