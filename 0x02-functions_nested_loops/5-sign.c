@@ -1,7 +1,7 @@
 #include "main.h"
 /*
  * File: 5-sign.c
- * Written by Tyrone
+ * Written by Rose
  */
 
 /**
