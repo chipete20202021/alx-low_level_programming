@@ -1,4 +1,3 @@
-s (17 sloc)  243 Bytes
 #include "main.h"
 /**
  * reverse_array - reverse array
